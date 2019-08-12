@@ -1,0 +1,31 @@
+question_type	question_text	required	page_number	option_text	option_values
+instruction	What is the quality of the content of the writing: the ideas, the perceptions, the point of view?	0	1		
+radio	Is the basic idea or insight a good one?	1	1	1,2,3,4,5	1,2,3,4,5
+radio	Is it supported by logical reasoning or valid argument?	1	1	1,2,3,4,5	1,2,3,4,5
+radio	Is it supported by evidence and examples?	1	1	1,2,3,4,5	1,2,3,4,5
+radio	Is it really saying something or is it just a collection of thoughts or observations (however unified and well written) sitting there limply? Did the writer communicate why this whole thing matters?	1	1	1,2,3,4,5	1,2,3,4,5
+radio	Is there too much abstraction or generalization? So few details, examples, and explanations that it ends up dull, empty, impossible to experience? or perhaps even impossible to understand?	1	1	1,2,3,4,5	1,2,3,4,5
+radio	Is there too little abstraction and too much clutter of detail? Too little standing back for perspective? Too little forest per tree?	1	1	1,2,3,4,5	1,2,3,4,5
+radio	Does it do what it says or implies it is going to do? Does it satisfy the issues it raises?	1	1	1,2,3,4,5	1,2,3,4,5
+radio	Is there a point of view or is the writing just disembodied statements from nowhere? And is that point of view unified and consistent?	1	1	1,2,3,4,5	1,2,3,4,5
+radio	Is the piece fitted to its audience? Has the writer understood their needs and point of view?	1	1	1,2,3,4,5	1,2,3,4,5
+instruction	How well is the writing organized?	0	2		
+radio	Is the whole thing unified? Is there one central idea to which everything pertains? Or is it pulling in two or three directions or full of loose ends and digressions?	1	2	1,2,3,4,5	1,2,3,4,5
+radio	Are the parts arranged in a coherent or logical sequence?	1	2	1,2,3,4,5	1,2,3,4,5
+radio	Is there a beginning? That is, does it start off in a way that allows you to get comfortably started? (The safest and most common way of doing this is to give an introduction; for example, a quick explanation of what's to come. But of course thats not the only way. Indeed plunging the reader into the middle of things without warning can function as a good beginning.)	1	2	1,2,3,4,5	1,2,3,4,5
+radio	Is there a middle? A body, some girth or solidity, some sense of meat and potatoes, sufficiency? Or does it turn around and say good-bye almost as soon as it is finished saying hello?	1	2	1,2,3,4,5	1,2,3,4,5
+radio	Is there an ending? Does it give you a sense of closure or completion? (The safest and most common method of doing this is to end with a conclusion; not just repeating what went before but figuring out what everything means or adds up to. But again, thats not the only good way to end a piece.)	1	2	1,2,3,4,5	1,2,3,4,5
+radio	Were the paragraphs really paragraphs? Could you tell what each one was saying? Did they function as helpful and comfortable units of thought: not too much to carry in your arms, but not so little that it feels like a wasted trip?	1	2	1,2,3,4,5	1,2,3,4,5
+instruction	How effective is the language?	0	3		
+radio	Are the sentences clear and readable?	1	3	1,2,3,4,5	5,4,3,2,1
+radio	Are the words used correctly?	1	3	1,2,3,4,5	5,4,3,2,1
+radio	Is it succinct enough for the purpose and audience? Not too long, repetitious, dull?	1	3	1,2,3,4,5	5,4,3,2,1
+radio	Is it full enough? Or does the writer squeeze out so much of the juice of human communication, the oil of actual spoken discourse, that the language, even if correct, is indigestible?	1	3	1,2,3,4,5	5,4,3,2,1
+radio	Does the diction, mood, or level of formality fit the audience and occasion?	1	3	1,2,3,4,5	5,4,3,2,1
+radio	"Is the language alive, human, interesting? Either because of interesting metaphors or turns of phrase; or because of a voice or presence in the words; a sense of someones actually being there?
+"	1	3	1,2,3,4,5	5,4,3,2,1
+instruction	Are there mistakes or inappropriate choices of usage?	0	4		
+radio	Are there mistakes in grammar, usage, spelling and typing?	1	4	1,2,3,4,5	1,2,3,4,5
+radio	Are there mistakes in footnotes, graphs, or other special effects?	1	4	1,2,3,4,5	1,2,3,4,5
+radio	Is it neat and easy to read on the page?	1	4	1,2,3,4,5	1,2,3,4,5
+instruction	Thanks for completing this survey. Press <strong>finish</strong> to continue.	0	6		

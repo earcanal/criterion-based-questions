@@ -1,0 +1,14 @@
+{
+    "name": "A Catalogue of Criterion-Based Questions",
+    "template":"survey",
+    "exp_id": "criterion-based-questions",
+    "url":"https://www.github.com/earcanal/criterion-questions",
+    "cognitive_atlas_task_id": "na",
+    "contributors": [
+                     "Paul Sharpe"
+                    ], 
+    "time":3,
+    "description": "Criterion-based feedback for a piece of writing",
+    "instructions": "Please answer the question to the best of your ability.",
+    "reference": ["https://books.google.co.uk/books?id=lFqnviLu4fsC&printsec=frontcover&dq=writing+with+power&hl=en&sa=X&ved=0ahUKEwjc-LXetf3jAhWNRxUIHWd6BPoQ6AEIKDAA#v=onepage&q=writing%20with%20power&f=false"]
+}
